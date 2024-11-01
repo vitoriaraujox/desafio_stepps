@@ -12,6 +12,10 @@ As técnicas de segmentação foram utilizadas para a primeira etapa do desafio,
 
 Para a contagem de mamões que passam da linha amarela do vídeo foi utilizada a yolov11, treinado um modelo com a base de dados fornecida pela empresa, e realizada a contagem mostrada automaticamente em vídeo.
 
-O vídeo final com a contagem está intitulado: object_counting_output.mp4
+O vídeo final com a contagem está intitulado e está no link : [object_counting_output.mp4](https://drive.google.com/drive/folders/1dYmUsJFKakl67yf946pqs-jvp42bPHJd?usp=sharing) 
+Assim como o print da contagem dos mamões do teste 1: [mamoes_contagem_1](https://drive.google.com/file/d/1EJ3MlN0o_7Ja2Wn0bmwRoTQdhQCeFMNr/view?usp=drive_link)
 
-Por conta de limitação, o dataset com as imagens e labels de treinamento, que foi fornecido pela empresa, naõ foi colocado no git, até por uma questão mais ética também, e por isso, caso necessário realizar o treinamento do modelo, images e labels devem ficar na pasta dataset junto com o .yaml
+Por conta de limitação, o dataset com as imagens e labels de treinamento e também os vídeos, que foi fornecido pela empresa, naõ foi colocado no git, até por uma questão mais ética também, e por isso, caso necessário realizar o treinamento do modelo, images e labels devem ficar na pasta dataset junto com o .yaml
+
+Para o Teste_Video.mp4, ele deve ser colocado em uma pasta chamada video/Teste_Video.mp4
+
